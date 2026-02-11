@@ -1,2 +1,8 @@
 # ltspice-matlab-simulations
-university coursework: circuit simulations and machine modeling in LTSpice/MATLAB
+
+university electrical engineering coursework simulations
+
+## Tools
+- LTSpice
+- MATLAB
+- Simulink
